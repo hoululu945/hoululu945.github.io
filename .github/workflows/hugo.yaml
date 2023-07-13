@@ -58,7 +58,6 @@ jobs:
         run: |
           hugo \
             --gc \
-            --theme "ananke" \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
