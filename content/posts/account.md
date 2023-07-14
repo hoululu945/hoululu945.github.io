@@ -2,21 +2,19 @@
 title: "account"
 date: 2023-07-13T10:59:54+08:00
 ---
-##Introduce
-记录账号信息  
+##  Introduce  
 
+记录账号信息  1   
+
+>>亿速云
 >>D:\Downloads\hugo_0.115.2_windows-amd64\hugo.exe
-
-![](../images/647808a926617.jpg)  
-
-##亿速IP  
-
-[](http://154.83.15.174/)
-
-##用户名
-admin
-##密码
-eL$p700Uq3N@1rhy(1
+>>![](../images/647808a926617.jpg)  
+>>##亿速IP  
+>>[](http://154.83.15.174/)
+>>##用户名
+>>admin
+>>##密码
+>>eL$p700Uq3N@1rhy(1
 
     lyky
     接口地址 http://apidoc.lyky.xyz/
