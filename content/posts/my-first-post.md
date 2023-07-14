@@ -8,7 +8,7 @@ smida
 
 This is **bold** text, and this is *emphasized* text.
 
-Visit the [Hugo](https://gohugo.io) website!
+Visit the [Hugos](https://gohugo.io) website!
 
 Raaa
 
@@ -21,7 +21,7 @@ https://www.markdownguide.org  f
 > hgjhgh
 >   
 
-![](../../assets/647808a926617.jpg )
+![sssssssdasdsasddddddddd](../../assets/647808a926617.jpg )
 如果没有开头的反斜杠字符的话，这一行将显示为无序列表。\
 ssss\
 
