@@ -1,4 +1,4 @@
-baseURL = 'http://hoululu945.github.io/'
+baseURL = 'http://172.26.0.1/'
 languageCode = 'en-us'
 title = '苹果熟了哈呀re1！'
 theme = 'ananke'
