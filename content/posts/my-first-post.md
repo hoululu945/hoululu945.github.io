@@ -8,15 +8,9 @@ date: 2023-07-13T10:59:54+08:00
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
-{{% mdshortcode %}}Stuff to `process` in the *center*.{{% /mdshortcode %}}
 
 Raaa
 
-
-{{% mdshortcode %}}Stuff to `process` in the *center*.{{% /mdshortcode %}}
-{{ range first 10 ( where .Site.RegularPages "Type" "cool" ) }}
-* {{ .Title }}
-  {{ end }}
 * dddd
 
 **ssss**
