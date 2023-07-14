@@ -22,7 +22,7 @@ https://www.markdownguide.org  f
 
   
 
-![sssssssdasdsasddddddddd](../../assets/647808a926617.jpg )  
+![sssssssdasdsasddddddddd](/assets/647808a926617.jpg )  
 
 
 \*如果没有开头的反斜杠字符的话，这一行将显示为无序列表。\
