@@ -1,6 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-07-13T10:59:54+08:00
+draft: true
 ---
 #ggg
 smida
@@ -22,7 +23,7 @@ https://www.markdownguide.org  f
 
   
 
-![sssssssdasdsasddddddddd](../../assets/647808a926617.jpg  "San Juan Mountains")  
+![sssssssdasdsasddddddddd](/posts/images/647808a926617.jpg  "San Juan Mountains")  
 
 
 \*如果没有开头的反斜杠字符的话，这一行将显示为无序列表。\
@@ -62,4 +63,4 @@ ffff
         }
 
 
-![](../../assets/647808a926617.jpg)
+![](images/647808a926617.jpg)
