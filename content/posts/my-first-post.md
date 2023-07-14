@@ -2,9 +2,9 @@
 title: "钓鱼技巧"
 date: 2023-07-13T10:59:54+08:00
 ---
+##Introduce
 
-
-![](/images/647808a926617.jpg)
+![dddd](../images/647808a926617.jpg "ssssss")
 
 # 钓鱼乐趣与技巧
 
